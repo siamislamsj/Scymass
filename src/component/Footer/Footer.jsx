@@ -51,7 +51,7 @@ const Footer = () => {
       <div className="footer_wrapper">
         <div className="footer_logo">
           <h2>Scymass</h2>
-          <p className="description">Grow with us</p>
+          <p className="description">Variation for Tomorrow's Innovation</p>
           <p className="small_text description">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto veritatis pariatur ipsa distinctio voluptates quia placeat, accusamus molestias asperiores obcaecati?</p>
         </div>
         <div className="footer_quick-links">
